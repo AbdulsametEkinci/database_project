@@ -1,0 +1,22 @@
+head_id,department,head_provider_id,head_name,head_email
+1,Anesthesiology,PRO00954,Jennifer Neal,jennifer.neal@healthcare.org
+2,Cardiology,PRO00263,Joseph Deleon,
+3,Dermatology,PRO01214,Sarah Henry,sarah.henry@healthcare.org
+4,ENT (Otolaryngology),PRO01332,Brian Rogers,
+5,Emergency Department,PRO00053,Angela Smith,angela.smith98@healthcare.org
+6,Family Medicine,PRO00206,Mckenzie Mills MD,mckenzie.md@healthcare.org
+7,Gastroenterology,PRO00619,Matthew Ruiz,
+8,General Surgery,PRO00560,Jason Jones,
+9,Infectious Disease,PRO01377,Pedro Rodriguez,
+10,Internal Medicine,PRO00136,Christopher Carr,christopher.carr@healthcare.org
+11,Nephrology,PRO00691,Kathleen Crawford,
+12,Neurology,PRO00405,Carl Martinez,
+13,Obstetrics & Gynecology,PRO00890,Andrew Ramirez MD,andrew.md@healthcare.org
+14,Oncology,PRO00777,Julie Willis,julie.willis@healthcare.org
+15,Orthopedics,PRO00441,Joyce Cowan,joyce.cowan@healthcare.org
+16,Pathology / Lab Services,PRO01066,Ethan Waller,ethan.waller@healthcare.org
+17,Pediatrics,PRO00803,Cassandra Peterson,cassandra.peterson@healthcare.org
+18,Psychiatry / Behavioral Health,PRO01451,Jimmy Wilkinson,jimmy.wilkinson71@healthcare.org
+19,Pulmonology,PRO00354,Penny Grant,
+20,Radiology / Imaging,PRO01046,Kelly Rojas,kelly.rojas@healthcare.org
+21,Urology,PRO01165,William Petersen,william.petersen@healthcare.org

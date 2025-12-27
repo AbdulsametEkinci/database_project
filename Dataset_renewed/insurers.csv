@@ -1,0 +1,8 @@
+insurer_id,code,name,payer_type,phone
+1,Aetna,Aetna,commercial,21312433
+2,BCBS,Blue Cross Blue Shield,commercial,123123
+3,Cigna,Cigna,commercial,5675675
+4,Humana,Humana,commercial,4556546
+5,Medicaid,Medicaid,public,455654
+6,Medicare,Medicare,public,57445657
+7,UHC,UnitedHealthcare,commercial,4565553
